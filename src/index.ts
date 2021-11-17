@@ -1,5 +1,6 @@
 export * from './String'
 export * from './Function'
+export * from './Date'
 
 /**
  * 获取数据类型
